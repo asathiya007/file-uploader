@@ -11,7 +11,7 @@ const App = () => {
       document.getElementById("img").style.visibility = "hidden";
       return;
     }
-
+    
     formData.append("file", file[0]);
 
     await fetch("http://localhost:5000/", {
