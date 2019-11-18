@@ -1,2 +1,2 @@
-# tomsettle-mongodb-fileupload
-My work for a tutorial on file uploads with MERN stack. 
+# file-uploader
+A file uploader with MERN stack. 
