@@ -1,2 +1,2 @@
 # file-uploader
-A file uploader with MERN stack. 
+A file uploader using the MERN stack. 
